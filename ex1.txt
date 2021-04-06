@@ -1,0 +1,116 @@
+Time 0
+Waiting clients: (1 15 4); (2 16 4); (3 22 4); (4 23 3); 
+Queue 1: closed
+Queue 2: closed
+Time 1
+Waiting clients: (1 15 4); (2 16 4); (3 22 4); (4 23 3); 
+Queue 1: closed
+Queue 2: closed
+Time 2
+Waiting clients: (1 15 4); (2 16 4); (3 22 4); (4 23 3); 
+Queue 1: closed
+Queue 2: closed
+Time 3
+Waiting clients: (1 15 4); (2 16 4); (3 22 4); (4 23 3); 
+Queue 1: closed
+Queue 2: closed
+Time 4
+Waiting clients: (1 15 4); (2 16 4); (3 22 4); (4 23 3); 
+Queue 1: closed
+Queue 2: closed
+Time 5
+Waiting clients: (1 15 4); (2 16 4); (3 22 4); (4 23 3); 
+Queue 1: closed
+Queue 2: closed
+Time 6
+Waiting clients: (1 15 4); (2 16 4); (3 22 4); (4 23 3); 
+Queue 1: closed
+Queue 2: closed
+Time 7
+Waiting clients: (1 15 4); (2 16 4); (3 22 4); (4 23 3); 
+Queue 1: closed
+Queue 2: closed
+Time 8
+Waiting clients: (1 15 4); (2 16 4); (3 22 4); (4 23 3); 
+Queue 1: closed
+Queue 2: closed
+Time 9
+Waiting clients: (1 15 4); (2 16 4); (3 22 4); (4 23 3); 
+Queue 1: closed
+Queue 2: closed
+Time 10
+Waiting clients: (1 15 4); (2 16 4); (3 22 4); (4 23 3); 
+Queue 1: closed
+Queue 2: closed
+Time 11
+Waiting clients: (1 15 4); (2 16 4); (3 22 4); (4 23 3); 
+Queue 1: closed
+Queue 2: closed
+Time 12
+Waiting clients: (1 15 4); (2 16 4); (3 22 4); (4 23 3); 
+Queue 1: closed
+Queue 2: closed
+Time 13
+Waiting clients: (1 15 4); (2 16 4); (3 22 4); (4 23 3); 
+Queue 1: closed
+Queue 2: closed
+Time 14
+Waiting clients: (1 15 4); (2 16 4); (3 22 4); (4 23 3); 
+Queue 1: closed
+Queue 2: closed
+Time 15
+Waiting clients: (2 16 4); (3 22 4); (4 23 3); 
+Queue 1: (1 15 4); 
+Queue 2: closed
+Time 16
+Waiting clients: (3 22 4); (4 23 3); 
+Queue 1: (1 15 3); 
+Queue 2: (2 16 4); 
+Time 17
+Waiting clients: (3 22 4); (4 23 3); 
+Queue 1: (1 15 2); 
+Queue 2: (2 16 3); 
+Time 18
+Waiting clients: (3 22 4); (4 23 3); 
+Queue 1: (1 15 1); 
+Queue 2: (2 16 2); 
+Time 19
+Waiting clients: (3 22 4); (4 23 3); 
+Queue 1: closed
+Queue 2: (2 16 1); 
+Time 20
+Waiting clients: (3 22 4); (4 23 3); 
+Queue 1: closed
+Queue 2: closed
+Time 21
+Waiting clients: (3 22 4); (4 23 3); 
+Queue 1: closed
+Queue 2: closed
+Time 22
+Waiting clients: (4 23 3); 
+Queue 1: (3 22 4); 
+Queue 2: closed
+Time 23
+Waiting clients: 
+Queue 1: (3 22 3); 
+Queue 2: (4 23 3); 
+Time 24
+Waiting clients: 
+Queue 1: (3 22 2); 
+Queue 2: (4 23 2); 
+Time 25
+Waiting clients: 
+Queue 1: (3 22 1); 
+Queue 2: (4 23 1); 
+Time 26
+Waiting clients: 
+Queue 1: closed
+Queue 2: closed
+Time 27
+Waiting clients: 
+Queue 1: closed
+Queue 2: closed
+Queue 1: average serving time= 4.0
+Queue 2: average serving time= 3.5
+average waiting time= 6.0
+secunda: 3 clientul cu ID-ul: 1 secunda: 4 clientul cu ID-ul: 2 secunda: 5 clientul cu ID-ul: 3 secunda: 8 clientul cu ID-ul: 4 secunda: 1 clientul cu ID-ul: 1 secunda: 1 clientul cu ID-ul: 2 secunda: 6 clientul cu ID-ul: 3 secunda: 8 clientul cu ID-ul: 4 secunda: 2 clientul cu ID-ul: 1 secunda: 20 clientul cu ID-ul: 2 secunda: 15 clientul cu ID-ul: 1 secunda: 16 clientul cu ID-ul: 2 secunda: 22 clientul cu ID-ul: 3 secunda: 23 clientul cu ID-ul: 4 
